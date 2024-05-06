@@ -2,7 +2,7 @@
 $servername = "162.214.97.208:3306";
 $username ="vdnsjf_fabian";
 $password ="Fabian253107.";
-$dbname = "vdnsjf_portalvdn3";
+$dbname = "vdnsjf_integracionesSAP";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
