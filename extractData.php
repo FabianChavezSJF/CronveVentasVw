@@ -82,6 +82,10 @@ foreach ($tiposMaterial as $tipoMaterial) {
     $tiposMaterialValidator[] = $tipoMaterial['materialCodSAP'];
 }
 
+// obtengo un archivo excel con los datos formateados de las ventas de campo
+
+
+
 // echo "<pre>";
 // echo "CENTROS SAP:";
 // print_r($centrosSAP);
